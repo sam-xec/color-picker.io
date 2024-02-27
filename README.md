@@ -9,16 +9,17 @@ Responsive Design: Adapts to different screen sizes for an optimal viewing exper
 
 
 How to Use
-Visit the Live Site: [Link to your GitHub Pages live site if available]
+Visit the Live Site: https://sam-xec.github.io/color-picker.io/
 Start the Color Change: Click on the "Pick" button to start changing the background color automatically.
 Stop the Color Change: Click on the "Stop" button to pause the color transition.
+<br>
 Installation
 To run this project locally, follow these steps:
 
 Clone the repository:
 bash
 Copy code
-git clone [your-repository-url]
+git clone  https://sam-xec.github.io/color-picker.io/
 Open index.html in your web browser.
 Technologies Used
 HTML
@@ -31,7 +32,7 @@ License
 This project is MIT licensed.
 
 Contact
-Your Name - @your-twitter - email@example.com
+email - samishaikh15072004@gmail.com
 
-Project Link: https://github.com/yourusername/your-repository-name
+Project Link:  https://sam-xec.github.io/color-picker.io/
 
